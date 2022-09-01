@@ -1,1 +1,1 @@
-Create a magic file school.mgc that can be used with the command
+Create a script that copies all the HTML
